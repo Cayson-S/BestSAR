@@ -8,8 +8,10 @@ sardata = sardata.drop(sardata.columns[[0]], axis=1)
 #print(sardata.head())
 
 for col in sardata.columns:
-    print(sardata.loc[:, col].nunique())
     if sardata.loc[:, col].nunique() <= 1:
         sardata_dropped = sardata.drop(col, axis = 1)
 
-print(sardata_dropped.head())
+# Convert categorical data to dummy variables
+sardata_dropped = pd.get_dummies(sardata_dropped, columns = ["R1", "R2", "R3", "R4", "R5", "R6"])
+
+print(sardata_dropped.columns)
