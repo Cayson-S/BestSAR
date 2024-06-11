@@ -1,0 +1,50 @@
+﻿,COMPOUND,R1,R2,R3,R4,R5,R6,R7,C. albcians ,C. neoformans
+,RMG8-8,Tridecylamine,Cyclohexylamine,Diaminobutane,Diaminoethane ,Cyclohexylamine ,,,25,1.56
+,RMG9-11,Tridecylamine,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,3.13
+ROUND 1,911-M1,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,3.13,3.13
+,911-M2,Tridecylamine,Diaminoethane,Phenylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,3.13
+,911-M3,Tridecylamine,Propylamine,Benzylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,1.56
+,911-M4,Tridecylamine,Propylamine,Fluorobenzylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,1.56
+,911-M5,Tridecylamine,Propylamine,Chlorobenzylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,1.56
+,911-M6,Tridecylamine,Propylamine,Bromobenzylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,1.56
+,911-M7,Tridecylamine,Propylamine,Furfurylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,12.5,3.13
+,911-M8,Tridecylamine,Propylamine,Thiophenemethylamine (TMA),Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,0.78
+,911-M9,Tridecylamine,Propylamine,Cyclohexylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,12.5,1.56
+,911-M10,Tridecylamine,Propylamine,Cyclohexylmethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,0.78
+,911-M11,Tridecylamine,Propylamine,Cyclohexylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,3.13,1.56
+ROUND 1 HYRBIDS,911-M12,Tetradecanoic acid,Diaminoethane ,Cyclohexylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,3.13
+,911-M13,Tridecylamine,Diaminoethane ,Cyclohexylethylamine ,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,3.13
+ROUND 2,911-M14,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Imidazole,Diaminopropane,25,6.25
+,911-M15,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Naphthylamine,Diaminopropane,6.25,3.13
+,911-M16,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Methoxyphenylethylamine ,Diaminopropane,6.25,3.13
+,911-M17,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Cyclohexylethylamine,Diaminopropane,6.25,3.13
+,911-M18,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Furfurylamine,Diaminopropane,6.25,6.25
+,911-M19,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Fluorobenzylamine,Diaminopropane,6.25,3.13
+,911-M20,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Cyclohexylmethylamine,Diaminopropane,6.25,3.13
+,911-M21,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Thiophenemethylamine (TMA),Diaminopropane,6.25,3.13
+,911-M22,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Phenylethylamine,Diaminopropane,6.25,3.13
+ROUND 2 HYBRIDS,911-M23,Tetradecanoic acid,Propylamine,Cyclohexylethylamine,Diaminobutane,Furfurylamine,Furfurylamine,Diaminopropane,6.25,3.13
+,911-M24,Tetradecanoic acid,Diamoethane ,Cyclohexylethylamine,Diaminobutane,Furfurylamine,Furfurylamine,Diaminopropane,6.25,1.56
+ROUND 3,911-M25,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Tetrahydrofuran,Benzylamine,Diaminopropane,6.25,3.13
+,911-M26,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Cyclopentylamine,Benzylamine,Diaminopropane,6.25,3.13
+,911-M27,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Thiophenemethylamine (TMA),Benzylamine,Diaminopropane,6.25,3.13
+,911-M28,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Benzylamine,Benzylamine,Diaminopropane,6.25,3.13
+,911-M29,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Cyclohexylamine,Benzylamine,Diaminopropane,6.25,1.56
+,911-M30,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Cyclohexylethylamine,Benzylamine,Diaminopropane,6.25,3.13
+,911-M31,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Phenylethylamine,Benzylamine,Diaminopropane,6.25,1.56
+,911-M32,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Fluorobenzylamine,Benzylamine,Diaminopropane,6.25,3.13
+,911-M33,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Methoxyphenylethylamine,Benzylamine,Diaminopropane,6.25,3.13
+,911-M34,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Aminomethylpyridine,Benzylamine,Diaminopropane,12.5,12.5
+,911-M35,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Tryptamine,Benzylamine,Diaminopropane,6.25,6.25
+,911-M36,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Napthylmethylamine,Benzylamine,Diaminopropane,6.25,6.25
+,911-M37,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Naphthylamine,Benzylamine,Diaminopropane,6.25,6.25
+,911-M38,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Diaminoethane,Benzylamine,Diaminopropane,12.5,3.13
+,911-M39,Tetradecanoic acid,Propylamine,Phenylethylamine,Diaminobutane,Cyclohexylmethylamine,Benzylamine,Diaminopropane,6.25,6.25
+ROUND 3 HYRBRIDS,911-M40,Tetradecanoic acid,Propylamine,Cyclohexylethylamine,Diaminobutane,Diaminoethane,Furfurylamine,Diaminopropane,12.5,3.13
+,911-M41,Tetradecanoic acid,Diaminoethane,Cyclohexylethylamine,Diaminobutane,Tetrahydrofuran,Furfurylamine,Diaminopropane,12.5,3.13
+ROUND 4,911-M42,Tetradecanoic acid,Furfurylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,
+,911-M43,Tetradecanoic acid,Phenylethylamine ,Phenylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,
+,911-M44,Tetradecanoic acid,Diaminopropane,Phenylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,12.5,
+,911-M45,Tetradecanoic acid,Methoxyethylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,
+,911-M46,Tetradecanoic acid,Isobutylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,
+,911-M47,Tetradecanoic acid,Cyclopentylamine,Phenylethylamine,Diaminobutane,Furfurylamine,Benzylamine,Diaminopropane,6.25,
